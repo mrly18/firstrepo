@@ -5,6 +5,6 @@
 		System.out.println("切换分支");
 		System.out.println("主分支");
 		System.out.println("分支冲突");
-
+		System.out.println("分支暂存");
 	}
 }
